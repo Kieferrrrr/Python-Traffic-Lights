@@ -1,5 +1,5 @@
 # Traffic Light Simulator
-![image](https://github.com/Kieferrrrr/TrafficLightSimulator/assets/157843487/c7bb6afd-0273-4a8d-8ae4-f43b3b2800a6)
+Part of an old college assignment to code a pair of corresponding traffic lights
 
 ## Description
 Traffic light simulator for a college object-oriented programming unit, the brief was to programme a set of traffic lights which alternate every 4 seconds following these events
